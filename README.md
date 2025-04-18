@@ -47,4 +47,4 @@ Tujuan dari proyek ini adalah untuk memahami dan mengimplementasikan algoritma R
 
 ---
 
-Video : https://youtu.be/VTUQX-dRjYQ
+Video : [https://youtu.be/VTUQX-dRjYQ](https://www.youtube.com/watch?v=C4wJ_j60w3M)
