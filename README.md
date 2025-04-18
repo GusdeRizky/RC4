@@ -46,3 +46,5 @@ Setiap karakter dalam plaintext dikonversi ke dalam format ASCII 8-bit, lalu di-
 Tujuan dari proyek ini adalah untuk memahami dan mengimplementasikan algoritma RC4 secara menyeluruh, meliputi proses KSA, PRGA, dan operasi XOR, serta menganalisis keunggulan dan kelemahan RC4 dalam konteks kriptografi modern.
 
 ---
+
+Video : https://youtu.be/VTUQX-dRjYQ
